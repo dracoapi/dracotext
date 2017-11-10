@@ -682,6 +682,7 @@ module.exports = {
     'key.journal.yesterday': 'Yesterday',
     'key.settings.title': 'Settings',
     'key.settings.music': 'Music',
+    'key.settings.deviceAuthError': 'For safety reasons, please link your account to Google or Facebook',
     'key.settings.sounds': 'Sounds',
     'key.settings.vibration': 'Vibration',
     'key.settings.batterySaver': 'Battery Saving',
