@@ -19,7 +19,7 @@ class Strings {
 
 module.exports.load = function (language = 'english') {
     if (!loaded[language]) {
-        loaded[language] = require(`./generated.${language}`);
+        loaded[language] = require(`./languages/generated.${language}`);
     }
     return new Strings(language);
 };
