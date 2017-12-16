@@ -825,6 +825,7 @@ module.exports = {
     'event.log.WEEKLY_QUEST_COMPLETED': 'Lov je končan! Vaša nagrada:',
     'event.log.ENCOUNTER_VICTORY': 'Premagali ste divjo pošast!',
     'key.ServiceException.Cause.OLD_CLIENT': 'Vaša različica igre je zastarela. Potrebujete posodobitev.',
+    'key.ServiceException.Cause.RESPONSE_CODE': 'Napaka {0}\n{1}',
     'key.ServiceException.Cause.AUTH_ERROR': 'Autentifikacija ni uspela',
     'key.ServiceException.Cause.SESSION_GONE': 'Vaš račun je bil prijavljen z druge naprav',
     'key.ServiceException.Cause.USER_ID_IS_EMPTY': 'ID uporabnika je praze',
@@ -1056,4 +1057,7 @@ module.exports = {
     'key.copyright.osm': '© OpenStreetMap',
     'key.loading': 'Loading...',
     'key.layerUp.title': 'New League!',
+    'key.layerUp.descr.0': 'You have reached level {0} and passed to the Bronze League. \n\nYou can now fight against other players for Arenas and Libraries and receive rewards.',
+    'key.layerUp.descr.1': 'You have reached level {0} and passed to the Silver League.\n\nYou can now fight against {1}-{2} level players in Arenas and Libraries.\n\nYour creatures from all buildings came back to you.',
+    'key.layerUp.descr.2': 'You have reached level {0} and passed to the Golden League.\n\nYou can now fight against {1}-{2} level players in Arenas and Libraries.\n\nYour creatures from all buildings came back to you.',
 };

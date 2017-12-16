@@ -825,6 +825,7 @@ module.exports = {
     'event.log.WEEKLY_QUEST_COMPLETED': 'La chasse est terminée. Votre récompense :',
     'event.log.ENCOUNTER_VICTORY': 'Vous avez vaincu un monstre sauvage !',
     'key.ServiceException.Cause.OLD_CLIENT': 'Votre version du jeu est obsolète, une mise à jour est nécessaire.',
+    'key.ServiceException.Cause.RESPONSE_CODE': 'Erreur  {0}\n{1}',
     'key.ServiceException.Cause.AUTH_ERROR': 'L\'authentification a échouée',
     'key.ServiceException.Cause.SESSION_GONE': 'Quelqu\'un s’est connecté à votre compte à partir d\'un autre appareil',
     'key.ServiceException.Cause.USER_ID_IS_EMPTY': 'Le champs avec ID de l\'utilisateur est vide',
@@ -1038,6 +1039,7 @@ module.exports = {
     'auth.login.signOut.confirmation': 'Êtes-vous sûr de vouloir vous déconnecter ?',
     'auth.login.social.userCancelledError': 'Annuler la connexion',
     'auth.login.social.cantSignInError': 'Impossible de se connecter à {0}',
+    'startup.warning': 'Soyez prudent au cours du jeu, respectez les règles de sécurité, regardez autour de vous.\n\nNe jouez pas au jeu Draconius GO: Catch a Dragon! en conduisant un véhicule ou en effectuant toute autre activité qui requiert une concentration absolue.\n\nNe violez pas le droit de propriété privée au cours du jeu.\n\nFaîtes des pauses au cours du jeu, surveillez votre état physique, pour que le processus du jeu soit agréable.',
     'licence.title': 'CONDITIONS D\'UTILISATION DU JEU DRACONIUS GO: CATCH A DRAGON!',
     'licence.checkbox': 'Envoyez-moi des actualités et des offres par e-mail',
     'licence.accept': 'Accepter',
@@ -1055,4 +1057,7 @@ module.exports = {
     'key.copyright.osm': '© OpenStreetMap',
     'key.loading': 'Loading...',
     'key.layerUp.title': 'Nouvelle Ligue !',
+    'key.layerUp.descr.0': 'Vous avez atteint le niveau {0} et vous êtes maintenant dans la Ligue de Bronze.\n\nVous pouvez désormais vous battre contre d\'autres joueurs pour les Arènes et les Bibliothèques et recevoir des récompenses.',
+    'key.layerUp.descr.1': 'Vous avez atteint le niveau {0} et vous êtes maintenant dans la Ligue d\'Argent.\n\nVous vous battez désormais sur les Arènes et dans les Bibliothèques contre les joueurs de niveaux {1}-{2}.\n\nVos créatures de tous les bâtiments vous sont revenues.',
+    'key.layerUp.descr.2': 'Vous avez atteint le niveau {0} et vous êtes maintenant dans la Ligue d\'Or.\n\nVous vous battez désormais sur les Arènes et dans les Bibliothèques contre les joueurs de niveaux {1}-{2}.\n\nVos créatures de tous les bâtiments vous sont revenues.',
 };

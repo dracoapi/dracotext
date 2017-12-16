@@ -825,6 +825,7 @@ module.exports = {
     'event.log.WEEKLY_QUEST_COMPLETED': '사냥을 완료했습니다. 보상을 받았습니다:',
     'event.log.ENCOUNTER_VICTORY': '야생 몬스터를 패배시켰습니다',
     'key.ServiceException.Cause.OLD_CLIENT': '게임 버전은 더 이상 사용되지 않습니다. 업데이트가 필요합니다.',
+    'key.ServiceException.Cause.RESPONSE_CODE': '{0} 오류\n{1}',
     'key.ServiceException.Cause.AUTH_ERROR': '입증 오류',
     'key.ServiceException.Cause.SESSION_GONE': '다른 기기에서 사용자 계정으로 로그인했습니다',
     'key.ServiceException.Cause.USER_ID_IS_EMPTY': '사용자 아이디가 비어 있습니다',
@@ -1038,6 +1039,7 @@ module.exports = {
     'auth.login.signOut.confirmation': '로그아웃하시겠습니까?',
     'auth.login.social.userCancelledError': '연결 실행 취소',
     'auth.login.social.cantSignInError': '{0}에 서버에 연결할 수 없습니다',
+    'startup.warning': '게임할 때 조심하십시오. 당신이 어디에 있는지 확인하십시오.\n\n자동차를 운전하거나 주의 집중이 필요한 활동을 할 때 드라코니우스 고 게임하지 마십시오.\n\n게임할 때 사유 재산의 권리를 침해하지 마십시오.\n\n게임 플레이가 매우 즐겁더라도 때때로 중단하고 자신의 상태를 확인하십시오.',
     'licence.title': '«DRACONIUS GO: CATCH A DRAGON!» 최종 사용자 사용권 계약',
     'licence.checkbox': '전자 메일로 뉴스 및 제안 받고 싶습니다',
     'licence.accept': '동의',
@@ -1055,4 +1057,7 @@ module.exports = {
     'key.copyright.osm': '© OpenStreetMap',
     'key.loading': '불러오는 중...',
     'key.layerUp.title': '새로운 리그!',
+    'key.layerUp.descr.0': '레벨 {0}에 도달하고, 브론즈 리그를 통과했습니다. \n\n경기장과 도서관을 두고 다른 플레이어와 싸우고, 보상을 받을 수 있습니다.',
+    'key.layerUp.descr.1': '레벨 {0}에 도달하고, 실버 리그를 통과했습니다. \n\n이제 경기장과 도서관을 두고 {1}-{2} 레벨의 플레이어와 싸울 수 있습니다.\n\n모든 건물에 있는 크리쳐가 돌아왔습니다.',
+    'key.layerUp.descr.2': '레벨 {0}에 도달하고, 골드 리그를 통과했습니다. \n\n이제 경기장과 도서관을 두고 {1}-{2} 레벨의 플레이어와 싸울 수 있습니다.\n\n모든 건물에 있는 생명체가 돌아왔습니다.',
 };

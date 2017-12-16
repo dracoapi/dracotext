@@ -825,6 +825,7 @@ module.exports = {
     'event.log.WEEKLY_QUEST_COMPLETED': 'Jacht is beeindigd! Jouw beloning:',
     'event.log.ENCOUNTER_VICTORY': 'Je hebt een wilde monster verslagen!',
     'key.ServiceException.Cause.OLD_CLIENT': 'Versie van het spel is verouderd. Update is nodig.',
+    'key.ServiceException.Cause.RESPONSE_CODE': 'Fout {0}\n{1}',
     'key.ServiceException.Cause.AUTH_ERROR': 'Authenticatie is mislukt.',
     'key.ServiceException.Cause.SESSION_GONE': 'Iemand is ingelogd op jouw account vanaf een ander apparaat',
     'key.ServiceException.Cause.USER_ID_IS_EMPTY': 'De gebruikersnaam is leeg',
@@ -1038,6 +1039,7 @@ module.exports = {
     'auth.login.signOut.confirmation': 'Weet je zeker dat je wilt uitloggen?',
     'auth.login.social.userCancelledError': 'Verbinding is geannuleerd',
     'auth.login.social.cantSignInError': 'Kan niet verbinden met {0}',
+    'startup.warning': 'Wees voorzichtig tijdens het spel, volg veiligheidsregels, kijk waar U bent. \n\nSpeel niet het spel «Draconius GO: Catch a Dragon!», waanneer U een vervoermiddel bestuurt of elke andere activiteit uitvoert, die de concentratie van Uw aandacht vereist. \n\nSchend niet de eigendomsrechten tijdens het spel.\n\nMaak pauzes op tijd, controleer Uw toestand, zodat het spelproces U alleen vreugde brengt.',
     'licence.title': 'LICENTIEOVEREENKOMST DRACONIUS GO: CATCH A DRAGON!',
     'licence.checkbox': 'Email mij nieuws en aanbiedingen',
     'licence.accept': 'Accepteren',
@@ -1055,4 +1057,7 @@ module.exports = {
     'key.copyright.osm': '© OpenStreetMap',
     'key.loading': 'Loading...',
     'key.layerUp.title': 'Nieuwe Liga!',
+    'key.layerUp.descr.0': 'Je hebt niveau {0} bereikt en naar Bronze Liga overgegaan.\n\nNu kun je met andere spelers voor Arena\'s en Bibliotheken vechten en beloningen krijgen.',
+    'key.layerUp.descr.1': 'Je hebt niveau {0} bereikt en naar Zilver Liga overgegaan.\n\nNu op Arena\'s en Bibliotheken vecht je met de spelers van {1}-{2} niveaus.\n\nJouw wezens van alle gebouwen zijn teruggekomen.',
+    'key.layerUp.descr.2': 'Je hebt niveau {0} bereikt en naar Gouden Liga overgegaan.\n\nNu op Arena\'s en Bibliotheken vecht je met de spelers van {1}-{2} niveaus.\n\nJouw wezens van alle gebouwen zijn teruggekomen.',
 };

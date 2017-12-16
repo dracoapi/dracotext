@@ -825,6 +825,7 @@ module.exports = {
     'event.log.WEEKLY_QUEST_COMPLETED': 'Polowanie skończyło się! Twoja nagroda:',
     'event.log.ENCOUNTER_VICTORY': 'Zwyciężyłeś(-aś) dzikiego potwora!',
     'key.ServiceException.Cause.OLD_CLIENT': 'Twoja wersja gry jest przestarzała. Aktualizacja gry jest wymagana.',
+    'key.ServiceException.Cause.RESPONSE_CODE': 'Błąd {0}\n{1}',
     'key.ServiceException.Cause.AUTH_ERROR': 'Błąd autentykacji',
     'key.ServiceException.Cause.SESSION_GONE': 'Ktoś zalogował się na Twoje konto z innego urządzenia',
     'key.ServiceException.Cause.USER_ID_IS_EMPTY': 'ID użytkownika jest puste',
@@ -1038,6 +1039,7 @@ module.exports = {
     'auth.login.signOut.confirmation': 'Czy na pewno chcesz wylogować?',
     'auth.login.social.userCancelledError': 'Kasuj połączenie',
     'auth.login.social.cantSignInError': 'Nie udaje się połączyć z {0}',
+    'startup.warning': 'Prosimy uważać na siebie oraz otoczenie podczas gry Draconius GO: Catch a Dragon!, uważać, gdzie się znajdujesz.\n\nProsimy nie grać w grę, gdy wykonujesz czynności wymagające skupienia, np. przechodzisz przez drogę, jedziesz rowerem lub innym środkiem transportowym.\n\nProsimy nie łamać praw posiadłości prywatnej podczas gry.\n\nProsimy uważać na własne samopoczucie, regularnie robić przerwy na posiłki oraz relaks, żeby Gra darowała wyłącznie przyjemność.',
     'licence.title': 'UMOWA LICENCYJNA DRACONIUS GO: CATCH A DRAGON!',
     'licence.checkbox': 'Chcę otrzymywać aktualności i propozycje na email',
     'licence.accept': 'Akceptuję',
@@ -1055,4 +1057,7 @@ module.exports = {
     'key.copyright.osm': '© OpenStreetMap',
     'key.loading': 'Loading...',
     'key.layerUp.title': 'Nowa liga!',
+    'key.layerUp.descr.0': 'Osiągnąłeś poziomu {0} i przeszedłeś do Brązowej ligi.\n\nTeraz możesz walczyć przeciw innym graczom za Areny i Biblioteki i dostawać nagrody.',
+    'key.layerUp.descr.1': 'Osiągnąłeś poziomu {0} i przeszedłeś do Srebrnej ligi.\n\nTeraz na Arenach i w Bibliotekach możesz walczyć przeciw graczom {1}-{2} poziomów.\n\nTwoje istoty ze wszystkich budynków wróciły do Ciebie.',
+    'key.layerUp.descr.2': 'Osiągnąłeś poziomu {0} i przeszedłeś do Złotej ligi.\n\nTeraz na Arenach i w Bibliotekach możesz walczyć przeciw graczom {1}-{2} poziomów.\n\nTwoje istoty ze wszystkich budynków wróciły do Ciebie.',
 };

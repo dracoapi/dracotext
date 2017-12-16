@@ -825,6 +825,7 @@ module.exports = {
     'event.log.WEEKLY_QUEST_COMPLETED': 'Lov je završen! Vaša nagrada je:',
     'event.log.ENCOUNTER_VICTORY': 'Ti si pobedio divlje stvorenje!',
     'key.ServiceException.Cause.OLD_CLIENT': 'Vaša verzija je zastarela. Potrebna je obnova.',
+    'key.ServiceException.Cause.RESPONSE_CODE': 'Greška {0}\n{1}',
     'key.ServiceException.Cause.AUTH_ERROR': 'Greška autorizacijeR',
     'key.ServiceException.Cause.SESSION_GONE': 'U Vaš nalog je neko ušao sa drugog uređaja',
     'key.ServiceException.Cause.USER_ID_IS_EMPTY': 'ID Korisnika je prazan',
@@ -1056,4 +1057,7 @@ module.exports = {
     'key.copyright.osm': '© OpenStreetMap',
     'key.loading': 'Loading...',
     'key.layerUp.title': 'Nova liga',
+    'key.layerUp.descr.0': 'Vi ste dostigli nivoa {0} i prešli u Bronzanu ligu.\n\nSada možete da se borite sa drugim igračima zbog Arena i Biblioteka, i dobiti nagade.',
+    'key.layerUp.descr.1': 'Vi ste dostigli nivoa {0} i prešli u Srebrnu ligu.\n\nSada na Arenama i u Bibliotekama Vi se borite sa igračima {1}-{2} nivoa.\n\nVaši stvorenja iz svih zgrada vratili se Vama.',
+    'key.layerUp.descr.2': 'Vi ste dostigli nivoa {0} i prešli u Zlatnu ligu.\n\nSada na Arenama i u Bibliotekama Vi se borite sa igračima {1}-{2} nivoa.\n\nVaši stvorenja iz svih zgrada vratili se Vama.',
 };

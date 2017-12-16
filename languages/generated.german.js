@@ -825,6 +825,7 @@ module.exports = {
     'event.log.WEEKLY_QUEST_COMPLETED': 'Die Jagd ist beendet! Du bekommst:',
     'event.log.ENCOUNTER_VICTORY': 'Du hast das wilde Monster besiegt!',
     'key.ServiceException.Cause.OLD_CLIENT': 'Diese Version des Spieles ist veraltet. Du musst sie aktualisieren.',
+    'key.ServiceException.Cause.RESPONSE_CODE': 'Fehler {0}\n{1}',
     'key.ServiceException.Cause.AUTH_ERROR': 'Authentifizierungsfehler',
     'key.ServiceException.Cause.SESSION_GONE': 'Jemand hat sich in deinem Account von einem anderen Gerät angemeldet',
     'key.ServiceException.Cause.USER_ID_IS_EMPTY': 'Die Benutzer ID ist leer',
@@ -1038,6 +1039,7 @@ module.exports = {
     'auth.login.signOut.confirmation': 'Willst du dich wirklich abmelden?',
     'auth.login.social.userCancelledError': 'Verbindung abgebrochen',
     'auth.login.social.cantSignInError': 'Keine Verbindung mit {0}',
+    'startup.warning': 'Sei vorsichtig, während du Draconius GO: Catch a Dragon! spielst. Folge den Sicherheitshinweisen und achte auf deine Umgebung.\n\nMache Pausen und schütze deine Gesundheit, damit das Spiel dir nichts als Spaß bringt.',
     'licence.title': 'BENUTZERABKOMMEN VON DRACONIUS GO: CATCH A DRAGON!',
     'licence.checkbox': 'Senden Sie mir die Neuigkeiten und Angebote an meine E-Mail-Adresse',
     'licence.accept': 'Akzeptieren',
@@ -1055,4 +1057,7 @@ module.exports = {
     'key.copyright.osm': '© OpenStreetMap',
     'key.loading': 'Loading...',
     'key.layerUp.title': 'Neues Liga!',
+    'key.layerUp.descr.0': 'Du hast Level {0} erreicht und bist in die bronze Liga gekommen.\n\nJetzt kannst du mit den anderen Spielern für die Arenen und Bibliotheken kämpfen, und dafür Belohnungen bekommen.',
+    'key.layerUp.descr.1': 'Du hast Level {0} erreicht und bist in die silbere Liga gekommen.\n\nJetzt kämpfst du in den Arenen und Bibliotheken gegen Spieler der Level {1}-{2}.\n\nDeine Geschöpfe von allen Gebäude sind zu dir zurückgekommen.',
+    'key.layerUp.descr.2': 'Du hast Level {0} erreicht und bist in die goldene Liga gekommen.\n\nJetzt kämpfst du in den Arenen und Bibliotheken gegen Spieler der Level {1}-{2}.\n\nDeine Geschöpfe von allen Gebäude sind zu dir zurückgekommen.',
 };
