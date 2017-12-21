@@ -1,5 +1,8 @@
 # Draconius Text
 
+Text strings to display info when using [DracoNode API](https://github.com/dracoapi/nodedracoapi).  
+You can get creature name and item types, but also warning message or buff description.  
+
 ```javascript
 
 const strings = require('dracotext').load('english');
