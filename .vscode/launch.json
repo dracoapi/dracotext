@@ -7,6 +7,12 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Get text from server",
+            "program": "${workspaceFolder}/build/getfromserver.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "Test",
             "program": "${workspaceFolder}/build/test.js"
         },
