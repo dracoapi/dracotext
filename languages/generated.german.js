@@ -73,11 +73,7 @@ module.exports = {
     'key.artifact.set.weeklyQuest': 'Lege 12 Artefakte aus dem Laden auf deinen Charakter und jage in derselben Woche noch einmal nach dem Goldenen Ei.',
     'key.battlePopup.strongHit': 'Starker Schlag!',
     'key.error.creatureIsDead': 'Du musst zuerst die Kreatur wiederbeleben',
-    'key.quest.weekly.descr.getFirstFragment': 'Bekomme den ersten Ausschnitt von der mysteriösen Karte um die Jagd auf das Goldenen Ei zu beginnen.
-
-Für die Spieler der Silbernen Liga und der Goldenen Liga befindet sich der Schatz auf demselben Ort, wenn sie die selbe Karte haben.
-
-Zwei Spieler können die selbe Karte bekommen, wenn sie den ersten Ausschnitt von demselben Obelisk innerhalb einer Stunde bekommen.',
+    'key.quest.weekly.descr.getFirstFragment': 'Bekomme den ersten Ausschnitt von der mysteriösen Karte um die Jagd auf das Goldenen Ei zu beginnen.  Für die Spieler der Silbernen Liga und der Goldenen Liga befindet sich der Schatz auf demselben Ort, wenn sie die selbe Karte haben.  Zwei Spieler können die selbe Karte bekommen, wenn sie den ersten Ausschnitt von demselben Obelisk innerhalb einer Stunde bekommen.',
     'key.mainMenu.backpack': 'BEUTEL',
     'key.error.tryAgainLater': 'Fehler. Versuche es später noch einmal',
     'key.layerUp.title': 'Neue Liga!',
@@ -232,23 +228,11 @@ Zwei Spieler können die selbe Karte bekommen, wenn sie den ersten Ausschnitt vo
     'key.item.POTION_HEAL_3.description': 'Füllt 1000 der KP deines Geschöpfes',
     'element.type.WATER': 'Wasser',
     'key.artifact.ARTIFACT_ARENA_XP_FOR_TRAINING_INCREASE_5.description': '+80% zur Erfahrung von alliierten Arenen und Bibliotheken während dem Training',
-    'key.layerUp.descr.0': 'Du hast Level {0} erreicht und bist in die bronze Liga gekommen.
-
-Jetzt kannst du mit den anderen Spielern für die Arenen und Bibliotheken kämpfen, und dafür Belohnungen bekommen.',
+    'key.layerUp.descr.0': 'Du hast Level {0} erreicht und bist in die bronze Liga gekommen.  Jetzt kannst du mit den anderen Spielern für die Arenen und Bibliotheken kämpfen, und dafür Belohnungen bekommen.',
     'key.activeObjects.remaster.confirmation.main': 'Bist du sicher, dass du das Geschöpf {0} neu ausbilden willst? Die Hauptfertigkeit {1} wird geändert!',
-    'key.layerUp.descr.1': 'Du hast Level {0} erreicht und bist in die silbere Liga gekommen.
-
-Jetzt kämpfst du in den Arenen und Bibliotheken gegen Spieler der Level {1}-{2}.
-
-Deine Geschöpfe von allen Gebäude sind zu dir zurückgekommen.
-
-Jetzt können Sie in der Verteidigung des Gebäudes zwei Geschöpfe anstatt eines setzen.',
+    'key.layerUp.descr.1': 'Du hast Level {0} erreicht und bist in die silbere Liga gekommen.  Jetzt kämpfst du in den Arenen und Bibliotheken gegen Spieler der Level {1}-{2}.  Deine Geschöpfe von allen Gebäude sind zu dir zurückgekommen.  Jetzt können Sie in der Verteidigung des Gebäudes zwei Geschöpfe anstatt eines setzen.',
     'creature.MONSTER_DUNGEON_LOV_2': 'Crysbee',
-    'key.layerUp.descr.2': 'Du hast Level {0} erreicht und bist in die goldene Liga gekommen.
-
-Jetzt kämpfst du in den Arenen und Bibliotheken gegen Spieler der Level {1}-{2}.
-
-Deine Geschöpfe von allen Gebäude sind zu dir zurückgekommen.',
+    'key.layerUp.descr.2': 'Du hast Level {0} erreicht und bist in die goldene Liga gekommen.  Jetzt kämpfst du in den Arenen und Bibliotheken gegen Spieler der Level {1}-{2}.  Deine Geschöpfe von allen Gebäude sind zu dir zurückgekommen.',
     'key.error.allFragmentsAreOpen': 'Alle Ausschnitte der mysteriösen Karte wurden geöffnet',
     'creature.MONSTER_DUNGEON_LOV_1': 'Nimblo',
     'key.ServiceException.Cause.SERVER_DOWN': 'Der Spielserver ist zeitlich nicht verfügbar. Versuche es bitte später.',
@@ -262,8 +246,7 @@ Deine Geschöpfe von allen Gebäude sind zu dir zurückgekommen.',
     'key.altar.rune.descr.RUNE_4': '3 smaragdgrüne Runen = eine Rote',
     'key.altar.rune.descr.RUNE_5': '3 rote Runen = eine Violette',
     'key.altar.rune.descr.RUNE_6': 'Violette Runen sind die stärksten',
-    'key.item.INCENSE.description': 'Die Pheromone locken die Geschöpfe eines bestimmten Elements an, abhängig vom Wochentag.
-Heute: {0}',
+    'key.item.INCENSE.description': 'Die Pheromone locken die Geschöpfe eines bestimmten Elements an, abhängig vom Wochentag. Heute: {0}',
     'key.mainMenu.quests': 'AUFGABEN',
     'key.altar.rune.descr.RUNE_1': '3 graue Runen = eine Orange',
     'key.altar.rune.descr.RUNE_2': '3 orange Runen = eine Blaue',
@@ -409,8 +392,7 @@ Heute: {0}',
     'key.ServiceException.Cause.NOT_ENOUGH_CANDIES': 'Du hast nicht genug Seelensteine',
     'key.modal.yesBtn': 'Ja',
     'key.timer.format.H_M': '{0}Std {1}Min',
-    'key.mentorship.mentor.mentorChooseDisabled.text': 'Das Rekrutierungssystem wird deaktiviert. 
-Du kannst deine Belohnung für die Erfolge deiner Rekruten nur bis zum 26. Februar erhalten.',
+    'key.mentorship.mentor.mentorChooseDisabled.text': 'Das Rekrutierungssystem wird deaktiviert.  Du kannst deine Belohnung für die Erfolge deiner Rekruten nur bis zum 26. Februar erhalten.',
     'dialog.encounter.result.reward.exp': 'XP',
     'stop.personalized.HEALS': 'TRÄNKE',
     'key.artifact.ARTIFACT_STOP_CD_REDUCE_2.description': 'Die Füllsäulen laden sich 40 Sekunden schneller auf',
@@ -420,12 +402,7 @@ Du kannst deine Belohnung für die Erfolge deiner Rekruten nur bis zum 26. Febru
     'key.item.RUNE_6.description': 'Magische Rune Level 6',
     'key.item.RUNE_5.description': 'Magische Rune Level 5',
     'key.artifact.ARTIFACT_STOP_CD_REDUCE_5.description': 'Die Füllsäulen laden sich 100 Sekunden schneller auf',
-    'key.info.draco.support.email.body': 'Hallo!
-
-Mein Charakter im Spiel heißt {0}, ich habe die Spielversion {1} ({2}), {3}.
-
- Ich habe eine Frage.
-',
+    'key.info.draco.support.email.body': 'Hallo!  Mein Charakter im Spiel heißt {0}, ich habe die Spielversion {1} ({2}), {3}.   Ich habe eine Frage. ',
     'key.modal.noBtn': 'Nein',
     'key.shop.saleSet.SET_3': 'Verkaufssatz 3',
     'key.shop.saleSet.SET_2': 'Verkaufssatz 2',
@@ -437,8 +414,7 @@ Mein Charakter im Spiel heißt {0}, ich habe die Spielversion {1} ({2}), {3}.
     'skill.charge.SKILL_EARTH_CHARGED_BAD_MIDDLE': 'Erschüttern',
     'key.storage.eggs.super': 'Antike Eier',
     'skill.main.SKILL_FIRE_MAIN_BEST_FAST': 'Erschießung',
-    'key.mentorship.mentor.noMentorAndCanNotChoose.message': 'Das Rekrutierungssystem wird deaktiviert. 
-Du kannst deine Belohnung für die Erfolge deiner Rekruten nur bis zum 26. Februar erhalten.',
+    'key.mentorship.mentor.noMentorAndCanNotChoose.message': 'Das Rekrutierungssystem wird deaktiviert.  Du kannst deine Belohnung für die Erfolge deiner Rekruten nur bis zum 26. Februar erhalten.',
     'key.wizardBattle.timer': 'Das Limit von gratis Duelle wird zurückgesetzt in',
     'key.button.ok': 'OK',
     'skill.main.SKILL_EARTH_MAIN_BEST_NORMAL': 'Baumgeist',
@@ -469,8 +445,7 @@ Du kannst deine Belohnung für die Erfolge deiner Rekruten nur bis zum 26. Febru
     'key.candy.MONSTER_DUNGEON_LOV_1': 'Steine von Nimblo',
     'key.notification.done': 'Fertig!',
     'key.hut.hutDescr': 'Gib die antiken Eier bei der Drachenmutter ab und sie wird sie für Dich ausbrüten',
-    'key.ServiceException.Cause.RESPONSE_CODE': 'Fehler {0}
-{1}',
+    'key.ServiceException.Cause.RESPONSE_CODE': 'Fehler {0} {1}',
     'key.ServiceException.Cause.WRONG_CREATURE': 'Geschöpf nicht gefunden',
     'key.banner.options.button': 'EINSTELLUNGEN',
     'auth.login.social.cantSignInError': 'Keine Verbindung mit {0}',
@@ -511,8 +486,7 @@ Du kannst deine Belohnung für die Erfolge deiner Rekruten nur bis zum 26. Febru
     'skill.charge.SKILL_FIRE_CHARGED_GOOD_SHORT': 'Napalm',
     'event.log.UPGRADE_STORAGE_BOUGHT': 'Du hast das Geschöpfe-Lager für {0} Münzen verbessert',
     'key.battle.result.dust': 'Essenz',
-    'key.mentorship.mentor.kickedByMentor.message': 'Das Rekrutierungssystem wird deaktiviert. 
-Du kannst deine Belohnung für die Erfolge deiner Rekruten nur bis zum 26. Februar erhalten.',
+    'key.mentorship.mentor.kickedByMentor.message': 'Das Rekrutierungssystem wird deaktiviert.  Du kannst deine Belohnung für die Erfolge deiner Rekruten nur bis zum 26. Februar erhalten.',
     'key.ServiceException.Cause.WIZARD_CANNOT_ENHANCE_LIMIT': 'Du hast das Kampflimit bereits erhöht',
     'skill.charge.SKILL_DUNGEON_CHARGED_BAD_SHORT': 'Atomismus',
     'key.ServiceException.Cause.BUILDING_COOLDOWN': 'Das Gebäude lädt sich gerade auf',
@@ -609,8 +583,7 @@ Du kannst deine Belohnung für die Erfolge deiner Rekruten nur bis zum 26. Febru
     'key.account.options.jurnal': 'VERLAUF',
     'skill.main.SKILL_FIRE_MAIN_BAD_NORMAL': 'Feuerring',
     'key.ServiceException.Cause.TOO_HIGH_LEVEL_TO_BECOME_STUDENT': 'Dein Level ist zu hoch',
-    'key.buff.tooltip.SYSTEM_MAINTENANCE': 'Verwende keine temporäre Boni!
-Zu den Wartungsarbeiten bleibt:',
+    'key.buff.tooltip.SYSTEM_MAINTENANCE': 'Verwende keine temporäre Boni! Zu den Wartungsarbeiten bleibt:',
     'key.button.yes': 'Ja',
     'skill.charge.SKILL_FIRE_CHARGED_GOOD_MIDDLE': 'Lava',
     'event.log.UPGRADE_BAG_BOUGHT': 'Du hast den Beutel für {0} Münzen verbessert',
@@ -645,9 +618,7 @@ Zu den Wartungsarbeiten bleibt:',
     'key.candy.MONSTER_DUNGEON_2': 'Steine von Axolan',
     'key.candy.MONSTER_DUNGEON_3': 'Steine von Stachelrücken',
     'auth.login.signOut.confirmation': 'Willst du dich wirklich abmelden?',
-    'key.mentorship.mentor.noMentorYet.hint': 'Leider hat unser Wunsch, jedem Spieler eine besondere Gelegenheit zu geben, den Drachen zu bekommen, zu einem massiven Verstoß gegen die Regeln und den Geist des Spiels geführt.
-Das Rekrutierungssystem wird deaktiviert.
-In Zukunft kannst du Kingpeat auf die Jagd nach dem Goldenen Ei bekommen oder es im Laden kaufen.',
+    'key.mentorship.mentor.noMentorYet.hint': 'Leider hat unser Wunsch, jedem Spieler eine besondere Gelegenheit zu geben, den Drachen zu bekommen, zu einem massiven Verstoß gegen die Regeln und den Geist des Spiels geführt. Das Rekrutierungssystem wird deaktiviert. In Zukunft kannst du Kingpeat auf die Jagd nach dem Goldenen Ei bekommen oder es im Laden kaufen.',
     'skill.charge.SKILL_FIRE_CHARGED_GOOD_LONG': 'Feuerquelle',
     'key.android.permission.gps.message': 'Das Spiel verwendet reale Koordinaten und die reale Karte der Welt. Bitte erlaube, deine Geoposition zu verwenden',
     'key.startEgg.incubator.title': 'Drachenkokons',
@@ -973,9 +944,7 @@ In Zukunft kannst du Kingpeat auf die Jagd nach dem Goldenen Ei bekommen oder es
     'key.artifact.ARTIFACT_DECOY_1': 'Frucht des Morgentaus',
     'key.ServiceException.Cause.TRIBUTE_COLLECTION_NOT_READY_YET': 'Es ist noch nicht an der Zeit für das Sammeln der Tribute',
     'key.settings.vibration': 'Vibration',
-    'startup.warning': 'Sei vorsichtig, während du Draconius GO: Catch a Dragon! spielst. Folge den Sicherheitshinweisen und achte auf deine Umgebung.
-
-Mache Pausen und schütze deine Gesundheit, damit das Spiel dir nichts als Spaß bringt.',
+    'startup.warning': 'Sei vorsichtig, während du Draconius GO: Catch a Dragon! spielst. Folge den Sicherheitshinweisen und achte auf deine Umgebung.  Mache Pausen und schütze deine Gesundheit, damit das Spiel dir nichts als Spaß bringt.',
     'skill.main.SKILL_WIND_MAIN_BAD_FAST': 'Atmen',
     'key.artifact.ARTIFACT_ADDITIONAL_MONSTER_1': 'Fahne des Herrschers',
     'key.item.MAGIC_BALL_NORMAL': 'Sphäre des Magisters',
@@ -1082,12 +1051,7 @@ Mache Pausen und schütze deine Gesundheit, damit das Spiel dir nichts als Spaß
     'key.error.no_connection': 'Keine Serververbindung. Versuche es später noch einmal.',
     'key.combined.second.40': 'Verteidiger',
     'key.account.options.artifacts': 'ARTEFAKTE',
-    'key.mentorship.sharecode.text': 'ACHTUNG:
-Der eingeladene Spieler muss vor dem 26. Februar die Stufe 21 erreichen.
-
-Der Wunsch, jedem Spieler eine besondere Gelegenheit zu geben, den Drachen zu bekommen, führte leider zu einer massiven Verletzung der Regeln und der Geist des Spiels.
-Das Rekrutierungssystem wird deaktiviert.
-In Zukunft kannst du Kingpeat auf die Jagd nach dem Goldenen Ei bekommen oder es im Laden kaufen.',
+    'key.mentorship.sharecode.text': 'ACHTUNG: Der eingeladene Spieler muss vor dem 26. Februar die Stufe 21 erreichen.  Der Wunsch, jedem Spieler eine besondere Gelegenheit zu geben, den Drachen zu bekommen, führte leider zu einer massiven Verletzung der Regeln und der Geist des Spiels. Das Rekrutierungssystem wird deaktiviert. In Zukunft kannst du Kingpeat auf die Jagd nach dem Goldenen Ei bekommen oder es im Laden kaufen.',
     'auth.login.play': 'Spielen',
     'key.artifact.ARTIFACT_TELEPATHY_2.description.long': 'Dieses Artefakt erlaubt Dir 2 Mal täglich ein Geschöpf in einen freien Platz in einer Arena oder in einer Bibliothek zu stationieren, welche Du auf der Karte siehst.',
     'key.item.FOOD_MORE_DUST': 'Magisches Doughnut',
@@ -1139,11 +1103,7 @@ In Zukunft kannst du Kingpeat auf die Jagd nach dem Goldenen Ei bekommen oder es
     'skill.charge.SKILL_EARTH_CHARGED_BEST_SHORT': 'See des Todes',
     'quest.desc.FIND_DUNGEON_WITH_ROOST': 'Besuche die Verwerfung Arkanas, um die Drachenmutter zu finden',
     'key.confirm.giveUpBattle': 'Are you sure you want to give up fighting?',
-    'key.quest.weekly.descr.top.reset': 'Du hast die Schatzsuche aufgehört.
-
-Um die Jagd in dieser Woche neu zu beginnen, musst du das Artefakt oder Artefakt-Set erneut einsetzen.
-
-Die nächste Jagd beginnt in',
+    'key.quest.weekly.descr.top.reset': 'Du hast die Schatzsuche aufgehört.  Um die Jagd in dieser Woche neu zu beginnen, musst du das Artefakt oder Artefakt-Set erneut einsetzen.  Die nächste Jagd beginnt in',
     'key.ServiceException.Cause.OBELISK_ALREADY_USED': 'Du hast diesen Obelisk schon benutzt',
     'key.combined.first.3': 'Wunderschönen',
     'key.combined.first.2': 'Teuflischen',
@@ -1301,11 +1261,7 @@ Die nächste Jagd beginnt in',
     'creature.MONSTER_WIND_10': 'Tanzewind',
     'key.ServiceException.Cause.TOO_MANY_ROOST_EGGS_NO_ART': 'Du musst das Drachenherz anziehen, um einen zusätzlichen Drachenkokon freizuschalten.',
     'key.ServiceException.Cause.ARENA_PROTECTED': 'Diese Arena wird beschützt durch den Segen der Verteidigung',
-    'key.mentorship.mentor.haveMentor.message': '{0}
-
-Erreiche Level 21
-VOR dem 26. Februar
-und erhalte deine Belohnung.',
+    'key.mentorship.mentor.haveMentor.message': '{0}  Erreiche Level 21 VOR dem 26. Februar und erhalte deine Belohnung.',
     'creature.MONSTER_WIND_11': 'Infird',
     'auth.login.nickname.busy': 'Dieser Name wird schon benutzt',
     'stop.personalized.RESURRECTIONS': 'BELEBER',

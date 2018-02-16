@@ -31,9 +31,12 @@ async function get(lang) {
         values: [],
     };
     for (let [key, value] of texts) {
+        if (key === 'key.quest.weekly.descr.getFirstFragment') {
+            ''.toString();
+        }
         data.values.push({
             key,
-            value: value.replace(/'/g, '\\\''),
+            value: value.replace(/'/g, '\\\'').replace(/\r?\n/g, ' '),
         });
     }
     write(data);

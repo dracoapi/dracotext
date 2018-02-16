@@ -73,11 +73,7 @@ module.exports = {
     'key.artifact.set.weeklyQuest': 'Mettez 12 artefacts de la Boutique et chassez à l\'Oeuf d\'Or une fois de plus par semaine.',
     'key.battlePopup.strongHit': 'Bon tir !',
     'key.error.creatureIsDead': 'D\'abord, vous devez ressusciter la créature',
-    'key.quest.weekly.descr.getFirstFragment': 'Obtenez le premier fragment d\'une carte mystérieuse pour commencer la chasse à l\'Œuf d\'Or.
-
-Pour les joueurs des Ligues d\'Argent et d\'Or, le trésor se trouve au même endroit s\'ils ont les mêmes cartes.
-
-Deux joueurs peuvent obtenir la même carte si le premier fragment est reçu du même Obélisque au cours de la même heure.',
+    'key.quest.weekly.descr.getFirstFragment': 'Obtenez le premier fragment d\'une carte mystérieuse pour commencer la chasse à l\'Œuf d\'Or.  Pour les joueurs des Ligues d\'Argent et d\'Or, le trésor se trouve au même endroit s\'ils ont les mêmes cartes.  Deux joueurs peuvent obtenir la même carte si le premier fragment est reçu du même Obélisque au cours de la même heure.',
     'key.mainMenu.backpack': 'SAC',
     'key.error.tryAgainLater': 'Une erreur s\'est produite. Veuillez réessayer plus tard.',
     'key.layerUp.title': 'Nouvelle Ligue !',
@@ -124,11 +120,7 @@ Deux joueurs peuvent obtenir la même carte si le premier fragment est reçu du 
     'creature.MONSTER_DUNGEON_8': 'Grandalotl',
     'key.info.draco.support': 'APPUI',
     'key.shop.upgrade.bag.desc': 'La taille du sac sera augmentée de 50',
-    'key.quest.weekly.descr.noQuest': 'Utilisez l\'Obélisque pour recevoir un fragment d\'une carte mystérieuse et commencer la chasse.
-
-Pour les joueurs des Ligues d\'Argent et d\'Or, le trésor se trouve au même endroit s\'ils ont les mêmes cartes.
-
-Deux joueurs peuvent obtenir la même carte si le premier fragment est reçu du même Obélisque au cours de la même heure.',
+    'key.quest.weekly.descr.noQuest': 'Utilisez l\'Obélisque pour recevoir un fragment d\'une carte mystérieuse et commencer la chasse.  Pour les joueurs des Ligues d\'Argent et d\'Or, le trésor se trouve au même endroit s\'ils ont les mêmes cartes.  Deux joueurs peuvent obtenir la même carte si le premier fragment est reçu du même Obélisque au cours de la même heure.',
     'key.ServiceException.Cause.ENCOUNTER_CREATURE_RAN_AWAY': 'Le monstre sauvage a échappé',
     'key.error.noAliveCreaturesForAttack': 'Vous n\'avez pas de créatures vivantes disponibles',
     'key.candy.MONSTER_EARTH_VIRAL': 'pierres de Tourbroi',
@@ -236,21 +228,11 @@ Deux joueurs peuvent obtenir la même carte si le premier fragment est reçu du 
     'key.item.POTION_HEAL_3.description': 'Soigne la créature en augmentant sa jauge de santé de 1000 points',
     'element.type.WATER': 'Eau',
     'key.artifact.ARTIFACT_ARENA_XP_FOR_TRAINING_INCREASE_5.description': '+80% à la gloire des Arènes et Bibliothèques alliées pendant l\'entraînement',
-    'key.layerUp.descr.0': 'Vous avez atteint le niveau {0} et vous êtes maintenant dans la Ligue de Bronze.
-
-Vous pouvez désormais vous battre contre d\'autres joueurs pour les Arènes et les Bibliothèques et recevoir des récompenses.',
+    'key.layerUp.descr.0': 'Vous avez atteint le niveau {0} et vous êtes maintenant dans la Ligue de Bronze.  Vous pouvez désormais vous battre contre d\'autres joueurs pour les Arènes et les Bibliothèques et recevoir des récompenses.',
     'key.activeObjects.remaster.confirmation.main': 'Êtes-vous sûr de vouloir réformer {0} ? La compétence de base {1} sera remplacée.',
-    'key.layerUp.descr.1': 'Vous avez atteint le niveau {0} et vous êtes maintenant dans la Ligue d\'Argent.
-
-Vous vous battez désormais sur les Arènes et dans les Bibliothèques contre les joueurs de niveaux {1}-{2}.
-
-Vos créatures de tous les bâtiments vous sont revenues. Vous pouvez assigner deux créatures, au lieu d\'une, à la protection d\'un bâtiment.',
+    'key.layerUp.descr.1': 'Vous avez atteint le niveau {0} et vous êtes maintenant dans la Ligue d\'Argent.  Vous vous battez désormais sur les Arènes et dans les Bibliothèques contre les joueurs de niveaux {1}-{2}.  Vos créatures de tous les bâtiments vous sont revenues. Vous pouvez assigner deux créatures, au lieu d\'une, à la protection d\'un bâtiment.',
     'creature.MONSTER_DUNGEON_LOV_2': 'Ruchien',
-    'key.layerUp.descr.2': 'Vous avez atteint le niveau {0} et vous êtes maintenant dans la Ligue d\'Or.
-
-Vous vous battez désormais sur les Arènes et dans les Bibliothèques contre les joueurs de niveaux {1}-{2}.
-
-Vos créatures de tous les bâtiments vous sont revenues.',
+    'key.layerUp.descr.2': 'Vous avez atteint le niveau {0} et vous êtes maintenant dans la Ligue d\'Or.  Vous vous battez désormais sur les Arènes et dans les Bibliothèques contre les joueurs de niveaux {1}-{2}.  Vos créatures de tous les bâtiments vous sont revenues.',
     'key.error.allFragmentsAreOpen': 'Tous les fragments de la carte mystérieuse sont ouverts',
     'creature.MONSTER_DUNGEON_LOV_1': 'Loulou',
     'key.ServiceException.Cause.SERVER_DOWN': 'Le serveur du jeu est temporairement indisponible. Veuillez réessayer plus tard.',
@@ -264,8 +246,7 @@ Vos créatures de tous les bâtiments vous sont revenues.',
     'key.altar.rune.descr.RUNE_4': '3 runes émeraude = une rune rouge',
     'key.altar.rune.descr.RUNE_5': '3 runes rouges = une rune mauve',
     'key.altar.rune.descr.RUNE_6': 'Les runes mauves sont les plus fortes',
-    'key.item.INCENSE.description': 'En fonction du jour de la semaine, les phéromones vont attirer les créatures d’un des éléments.
-Aujourd\'hui, c\'est {0}',
+    'key.item.INCENSE.description': 'En fonction du jour de la semaine, les phéromones vont attirer les créatures d’un des éléments. Aujourd\'hui, c\'est {0}',
     'key.mainMenu.quests': 'QUÊTES',
     'key.altar.rune.descr.RUNE_1': '3 runes vertes = une rune orange',
     'key.altar.rune.descr.RUNE_2': '3 runes orange = une rune bleue',
@@ -411,8 +392,7 @@ Aujourd\'hui, c\'est {0}',
     'key.ServiceException.Cause.NOT_ENOUGH_CANDIES': 'Vous n\'avez pas assez de pierres d\'âme',
     'key.modal.yesBtn': 'Oui',
     'key.timer.format.H_M': '{0}h {1}m',
-    'key.mentorship.mentor.mentorChooseDisabled.text': 'Le système de Recrutement sera désactivé. 
-Vous pourrez recevoir la récompense pour les réalisations des recrues seulement jusqu\'au 26 février.',
+    'key.mentorship.mentor.mentorChooseDisabled.text': 'Le système de Recrutement sera désactivé.  Vous pourrez recevoir la récompense pour les réalisations des recrues seulement jusqu\'au 26 février.',
     'dialog.encounter.result.reward.exp': 'Expérience',
     'stop.personalized.HEALS': 'POTIONS CURATIVES',
     'key.artifact.ARTIFACT_STOP_CD_REDUCE_2.description': 'Le temps de rechargement des Colonnes d\'Abondance sera réduit de 40 secondes',
@@ -422,12 +402,7 @@ Vous pourrez recevoir la récompense pour les réalisations des recrues seulemen
     'key.item.RUNE_6.description': 'Rune magique du niveau 6',
     'key.item.RUNE_5.description': 'Rune magique du niveau 5',
     'key.artifact.ARTIFACT_STOP_CD_REDUCE_5.description': 'Le temps de rechargement des Colonnes d\'Abondance sera réduit de 100 secondes',
-    'key.info.draco.support.email.body': 'Bonjour !
-
-Mon pseudo est {0}, la version du jeu  {1} ({2}), {3}.
-
- J’ai une question.
-',
+    'key.info.draco.support.email.body': 'Bonjour !  Mon pseudo est {0}, la version du jeu  {1} ({2}), {3}.   J’ai une question. ',
     'key.modal.noBtn': 'Non',
     'key.shop.saleSet.SET_3': 'Kit 3',
     'key.shop.saleSet.SET_2': 'Kit 2',
@@ -439,8 +414,7 @@ Mon pseudo est {0}, la version du jeu  {1} ({2}), {3}.
     'skill.charge.SKILL_EARTH_CHARGED_BAD_MIDDLE': 'Tremblement',
     'key.storage.eggs.super': 'Œufs anciens',
     'skill.main.SKILL_FIRE_MAIN_BEST_FAST': 'Fusillade',
-    'key.mentorship.mentor.noMentorAndCanNotChoose.message': 'Le système de Recrutement sera désactivé. 
-Vous pourrez recevoir la récompense pour les réalisations des recrues seulement jusqu\'au 26 février.',
+    'key.mentorship.mentor.noMentorAndCanNotChoose.message': 'Le système de Recrutement sera désactivé.  Vous pourrez recevoir la récompense pour les réalisations des recrues seulement jusqu\'au 26 février.',
     'key.wizardBattle.timer': 'La limite des batailles gratuites sera mise à jour dans ',
     'key.button.ok': 'OK',
     'skill.main.SKILL_EARTH_MAIN_BEST_NORMAL': 'Fantôme de l\'arbre',
@@ -471,8 +445,7 @@ Vous pourrez recevoir la récompense pour les réalisations des recrues seulemen
     'key.candy.MONSTER_DUNGEON_LOV_1': 'pierres de Loulou',
     'key.notification.done': 'C\'est fait !',
     'key.hut.hutDescr': 'Donnez les œufs anciens à la Mère des Dragons pour les couver',
-    'key.ServiceException.Cause.RESPONSE_CODE': 'Erreur  {0}
-{1}',
+    'key.ServiceException.Cause.RESPONSE_CODE': 'Erreur  {0} {1}',
     'key.ServiceException.Cause.WRONG_CREATURE': 'Créature introuvable',
     'key.banner.options.button': 'PARAMÈTRES',
     'auth.login.social.cantSignInError': 'Impossible de se connecter à {0}',
@@ -513,8 +486,7 @@ Vous pourrez recevoir la récompense pour les réalisations des recrues seulemen
     'skill.charge.SKILL_FIRE_CHARGED_GOOD_SHORT': 'Napalm',
     'event.log.UPGRADE_STORAGE_BOUGHT': 'Vous avez amélioré le stockage de créatures pour {0} pièces',
     'key.battle.result.dust': 'Essence',
-    'key.mentorship.mentor.kickedByMentor.message': 'Le système de Recrutement sera désactivé. 
-Vous pourrez recevoir la récompense pour les réalisations des recrues seulement jusqu\'au 26 février.',
+    'key.mentorship.mentor.kickedByMentor.message': 'Le système de Recrutement sera désactivé.  Vous pourrez recevoir la récompense pour les réalisations des recrues seulement jusqu\'au 26 février.',
     'key.ServiceException.Cause.WIZARD_CANNOT_ENHANCE_LIMIT': 'La limite des combats a déjà été augmentée',
     'skill.charge.SKILL_DUNGEON_CHARGED_BAD_SHORT': 'Atomisation',
     'key.ServiceException.Cause.BUILDING_COOLDOWN': 'Le bâtiment est en cours de rechargement',
@@ -611,8 +583,7 @@ Vous pourrez recevoir la récompense pour les réalisations des recrues seulemen
     'key.account.options.jurnal': 'CARNET',
     'skill.main.SKILL_FIRE_MAIN_BAD_NORMAL': 'Doigt de feu',
     'key.ServiceException.Cause.TOO_HIGH_LEVEL_TO_BECOME_STUDENT': 'Votre niveau est trop élevé',
-    'key.buff.tooltip.SYSTEM_MAINTENANCE': 'N\'utilisez pas de bonus temporaires !
-Les travaux d\'entretien commencent dans :',
+    'key.buff.tooltip.SYSTEM_MAINTENANCE': 'N\'utilisez pas de bonus temporaires ! Les travaux d\'entretien commencent dans :',
     'key.button.yes': 'Oui',
     'skill.charge.SKILL_FIRE_CHARGED_GOOD_MIDDLE': 'Lave',
     'event.log.UPGRADE_BAG_BOUGHT': 'Vous avez amélioré le sac pour {0} pièces',
@@ -647,9 +618,7 @@ Les travaux d\'entretien commencent dans :',
     'key.candy.MONSTER_DUNGEON_2': 'pierres d\'Axolan',
     'key.candy.MONSTER_DUNGEON_3': 'pierres de Crampondo',
     'auth.login.signOut.confirmation': 'Êtes-vous sûr de vouloir vous déconnecter ?',
-    'key.mentorship.mentor.noMentorYet.hint': 'Malheureusement, notre désir de donner à chaque joueur une occasion spéciale d\'obtenir le Dragon a conduit à une violation massive des règles et de l\'esprit du jeu. 
-Le système de Recrutement sera désactivé. 
-Dans l\'avenir, vous pourrez obtenir Tourbroi dans la Chasse aux Oeufs d\'Or ou en l\'achetant à la Boutique.',
+    'key.mentorship.mentor.noMentorYet.hint': 'Malheureusement, notre désir de donner à chaque joueur une occasion spéciale d\'obtenir le Dragon a conduit à une violation massive des règles et de l\'esprit du jeu.  Le système de Recrutement sera désactivé.  Dans l\'avenir, vous pourrez obtenir Tourbroi dans la Chasse aux Oeufs d\'Or ou en l\'achetant à la Boutique.',
     'skill.charge.SKILL_FIRE_CHARGED_GOOD_LONG': 'Fontaine de feu',
     'key.android.permission.gps.message': 'Le jeu utilise des coordonnées et des cartes du monde réelles. Veuillez permettre l\'accès à votre localisation géographique.',
     'key.startEgg.incubator.title': 'Cocons de dragon',
@@ -975,13 +944,7 @@ Dans l\'avenir, vous pourrez obtenir Tourbroi dans la Chasse aux Oeufs d\'Or ou 
     'key.artifact.ARTIFACT_DECOY_1': 'Fruit de la rosée du matin',
     'key.ServiceException.Cause.TRIBUTE_COLLECTION_NOT_READY_YET': 'Il est encore trop tôt pour collecter les impôts',
     'key.settings.vibration': 'Vibrations',
-    'startup.warning': 'Soyez prudent au cours du jeu, respectez les règles de sécurité, regardez autour de vous.
-
-Ne jouez pas au jeu Draconius GO: Catch a Dragon! en conduisant un véhicule ou en effectuant toute autre activité qui requiert une concentration absolue.
-
-Ne violez pas le droit de propriété privée au cours du jeu.
-
-Faîtes des pauses au cours du jeu, surveillez votre état physique, pour que le processus du jeu soit agréable.',
+    'startup.warning': 'Soyez prudent au cours du jeu, respectez les règles de sécurité, regardez autour de vous.  Ne jouez pas au jeu Draconius GO: Catch a Dragon! en conduisant un véhicule ou en effectuant toute autre activité qui requiert une concentration absolue.  Ne violez pas le droit de propriété privée au cours du jeu.  Faîtes des pauses au cours du jeu, surveillez votre état physique, pour que le processus du jeu soit agréable.',
     'skill.main.SKILL_WIND_MAIN_BAD_FAST': 'Respiration',
     'key.artifact.ARTIFACT_ADDITIONAL_MONSTER_1': 'Étendard du seigneur',
     'key.item.MAGIC_BALL_NORMAL': 'Sphère de maître',
@@ -1088,13 +1051,7 @@ Faîtes des pauses au cours du jeu, surveillez votre état physique, pour que le
     'key.error.no_connection': 'Impossible de vous connecter au serveur. Réessayez plus tard.',
     'key.combined.second.40': 'Défenseurs',
     'key.account.options.artifacts': 'ARTEFACTS',
-    'key.mentorship.sharecode.text': 'ATTENTION : 
-
-Pour que vous obteniez des récompenses, le joueur invité doit atteindre le niveau 21 JUSQU\'AU 26 février. 
-
-Malheureusement, notre désir de donner à chaque joueur une occasion spéciale d\'obtenir le Dragon a conduit à une violation massive des règles et de l\'esprit du jeu. 
-Le système de Recrutement sera désactivé. 
-Dans l\'avenir, vous pourrez obtenir Tourbroi dans la Chasse aux Oeufs d\'Or ou en l\'achetant à la Boutique.',
+    'key.mentorship.sharecode.text': 'ATTENTION :   Pour que vous obteniez des récompenses, le joueur invité doit atteindre le niveau 21 JUSQU\'AU 26 février.   Malheureusement, notre désir de donner à chaque joueur une occasion spéciale d\'obtenir le Dragon a conduit à une violation massive des règles et de l\'esprit du jeu.  Le système de Recrutement sera désactivé.  Dans l\'avenir, vous pourrez obtenir Tourbroi dans la Chasse aux Oeufs d\'Or ou en l\'achetant à la Boutique.',
     'auth.login.play': 'Jouer',
     'key.artifact.ARTIFACT_TELEPATHY_2.description.long': 'Cet artefact vous permet de placer à distance votre créature sur un espace libre dans l\'Arène ou dans la Bibliothèque visibles sur la carte 2 fois par jour.',
     'key.item.FOOD_MORE_DUST': 'Beignet magique',
@@ -1146,11 +1103,7 @@ Dans l\'avenir, vous pourrez obtenir Tourbroi dans la Chasse aux Oeufs d\'Or ou 
     'skill.charge.SKILL_EARTH_CHARGED_BEST_SHORT': 'Lac de mort',
     'quest.desc.FIND_DUNGEON_WITH_ROOST': 'Visitez la Crevasse d\'Arcana pour trouver la Mère des Dragons',
     'key.confirm.giveUpBattle': 'Êtes-vous sûr de vouloir vous rendre et finir le combat ?',
-    'key.quest.weekly.descr.top.reset': 'Vous avez terminé votre chasse.
-
-Pour commencer la chasse supplémentaire cette semaine, vous devez porter un artefact ou un ensemble d\'artefacts.
-
-La prochaine chasse commencera dans ',
+    'key.quest.weekly.descr.top.reset': 'Vous avez terminé votre chasse.  Pour commencer la chasse supplémentaire cette semaine, vous devez porter un artefact ou un ensemble d\'artefacts.  La prochaine chasse commencera dans ',
     'key.ServiceException.Cause.OBELISK_ALREADY_USED': 'Vous avez déjà utilisé cet Obélisque',
     'key.combined.first.3': 'Magnifiques',
     'key.combined.first.2': 'Sacrés',
@@ -1308,11 +1261,7 @@ La prochaine chasse commencera dans ',
     'creature.MONSTER_WIND_10': 'Vendanse',
     'key.ServiceException.Cause.TOO_MANY_ROOST_EGGS_NO_ART': 'Vous devez porter le Coeur du Dragon pour débloquer un cocon supplémentaire.',
     'key.ServiceException.Cause.ARENA_PROTECTED': 'L\'Arène est sous la protection de la Bénédiction de la Défense',
-    'key.mentorship.mentor.haveMentor.message': '{0}
-
-Atteignez le niveau 21 
-JUSQU\'AU 26 FÉVRIER
-et obtenez la récompense.',
+    'key.mentorship.mentor.haveMentor.message': '{0}  Atteignez le niveau 21  JUSQU\'AU 26 FÉVRIER et obtenez la récompense.',
     'creature.MONSTER_WIND_11': 'Infird',
     'auth.login.nickname.busy': 'Ce nom est déjà pris',
     'stop.personalized.RESURRECTIONS': 'POTIONS DE RÉSURRECTION',

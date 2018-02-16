@@ -73,11 +73,7 @@ module.exports = {
     'key.artifact.set.weeklyQuest': 'Put on 12 artifacts from the Shop and hunt for a Golden Egg one more time in the same week.',
     'key.battlePopup.strongHit': 'Strong hit!',
     'key.error.creatureIsDead': 'You need to resurrect the creature first',
-    'key.quest.weekly.descr.getFirstFragment': 'Receive the first fragment of a mysterious map to start the quest for the Golden Egg.
-
-For the Golden and Silver League players, the treasure is hidden in the same place if they have identical maps.
-
-Two players may receive identical maps if they take the first fragment from the same Obelisk within the same hour.',
+    'key.quest.weekly.descr.getFirstFragment': 'Receive the first fragment of a mysterious map to start the quest for the Golden Egg.  For the Golden and Silver League players, the treasure is hidden in the same place if they have identical maps.  Two players may receive identical maps if they take the first fragment from the same Obelisk within the same hour.',
     'key.mainMenu.backpack': 'BAG',
     'key.error.tryAgainLater': 'Error. Try again later.',
     'key.layerUp.title': 'New League!',
@@ -124,11 +120,7 @@ Two players may receive identical maps if they take the first fragment from the 
     'creature.MONSTER_DUNGEON_8': 'Grandalotl',
     'key.info.draco.support': 'SUPPORT',
     'key.shop.upgrade.bag.desc': 'The size of the Bag will be increased by 50',
-    'key.quest.weekly.descr.noQuest': 'Use the Obelisk to receive a fragment of a mysterious map and start hunting.
-
-For the Golden and Silver League players, the treasure is hidden in the same place if they have identical maps.
-
-Two players may receive identical maps if they take the first fragment from the same Obelisk within the same hour.',
+    'key.quest.weekly.descr.noQuest': 'Use the Obelisk to receive a fragment of a mysterious map and start hunting.  For the Golden and Silver League players, the treasure is hidden in the same place if they have identical maps.  Two players may receive identical maps if they take the first fragment from the same Obelisk within the same hour.',
     'key.ServiceException.Cause.ENCOUNTER_CREATURE_RAN_AWAY': 'The wild monster has run away',
     'key.error.noAliveCreaturesForAttack': 'You have no available living creatures',
     'key.candy.MONSTER_EARTH_VIRAL': 'Kingpeat\'s stones',
@@ -236,22 +228,10 @@ Two players may receive identical maps if they take the first fragment from the 
     'key.item.POTION_HEAL_3.description': 'Heals a creature by 1000 health points',
     'element.type.WATER': 'Water',
     'key.artifact.ARTIFACT_ARENA_XP_FOR_TRAINING_INCREASE_5.description': '+80% to fame of allied Arenas and Libraries during training',
-    'key.layerUp.descr.0': 'You have reached level {0} and passed to the Bronze League. 
-
-You can now fight against other players for Arenas and Libraries and receive rewards.',
+    'key.layerUp.descr.0': 'You have reached level {0} and passed to the Bronze League.   You can now fight against other players for Arenas and Libraries and receive rewards.',
     'key.activeObjects.remaster.confirmation.main': 'Are you sure you want to retrain {0}? Its main skill {1} will be changed.',
-    'key.layerUp.descr.1': 'You have reached level {0} and passed to the Silver League.
-
-You can now fight against {1}-{2} level players in Arenas and Libraries.
-
-Your creatures from all buildings came back to you.
-
-Now, you can put two creatures to defend a building, instead of one.',
-    'key.layerUp.descr.2': 'You have reached level {0} and passed to the Golden League.
-
-You can now fight against {1}-{2} level players in Arenas and Libraries.
-
-Your creatures from all buildings came back to you.',
+    'key.layerUp.descr.1': 'You have reached level {0} and passed to the Silver League.  You can now fight against {1}-{2} level players in Arenas and Libraries.  Your creatures from all buildings came back to you.  Now, you can put two creatures to defend a building, instead of one.',
+    'key.layerUp.descr.2': 'You have reached level {0} and passed to the Golden League.  You can now fight against {1}-{2} level players in Arenas and Libraries.  Your creatures from all buildings came back to you.',
     'key.error.allFragmentsAreOpen': 'All the fragments of the mysterious map have been opened',
     'creature.MONSTER_DUNGEON_LOV_2': 'Crysbee',
     'key.ServiceException.Cause.SERVER_DOWN': 'The game server is temporarily not available. Please try again later.',
@@ -266,8 +246,7 @@ Your creatures from all buildings came back to you.',
     'key.altar.rune.descr.RUNE_4': '3 emerald runes = a red one',
     'key.altar.rune.descr.RUNE_5': '3 red runes = a purple one',
     'key.altar.rune.descr.RUNE_6': 'Purple runes are the most powerful ones',
-    'key.item.INCENSE.description': 'Pheromones will attract creatures of a certain element to you, depending on the day of the week.
-Today, it\'s {0}',
+    'key.item.INCENSE.description': 'Pheromones will attract creatures of a certain element to you, depending on the day of the week. Today, it\'s {0}',
     'key.mainMenu.quests': 'QUEST',
     'key.altar.rune.descr.RUNE_1': '3 gray runes = an orange one',
     'key.altar.rune.descr.RUNE_2': '3 orange runes = a blue one',
@@ -413,8 +392,7 @@ Today, it\'s {0}',
     'key.ServiceException.Cause.NOT_ENOUGH_CANDIES': 'Not enough soulstones',
     'key.modal.yesBtn': 'Yes',
     'key.timer.format.H_M': '{0}h {1}m',
-    'key.mentorship.mentor.mentorChooseDisabled.text': 'The Recruiting system will be disabled. 
-You can receive your reward for your recruits\' achievements only until February 26.',
+    'key.mentorship.mentor.mentorChooseDisabled.text': 'The Recruiting system will be disabled.  You can receive your reward for your recruits\' achievements only until February 26.',
     'dialog.encounter.result.reward.exp': 'XP',
     'stop.personalized.HEALS': 'HEALING POTIONS',
     'key.artifact.ARTIFACT_STOP_CD_REDUCE_2.description': '-40 seconds to the recharging of Pillars of Abundance',
@@ -424,12 +402,7 @@ You can receive your reward for your recruits\' achievements only until February
     'key.item.RUNE_6.description': '6th Power Level Magical Rune',
     'key.item.RUNE_5.description': '5th Power Level Magical Rune',
     'key.artifact.ARTIFACT_STOP_CD_REDUCE_5.description': '-100 seconds to the recharging of Pillars of Abundance',
-    'key.info.draco.support.email.body': 'Hi!
-
-My character\'s name is {0}, game version is {1} ({2}), {3}.
-
- I have a question.
-',
+    'key.info.draco.support.email.body': 'Hi!  My character\'s name is {0}, game version is {1} ({2}), {3}.   I have a question. ',
     'key.modal.noBtn': 'No',
     'key.shop.saleSet.SET_3': 'Sale Set 3',
     'key.shop.saleSet.SET_2': 'Sale Set 2',
@@ -441,8 +414,7 @@ My character\'s name is {0}, game version is {1} ({2}), {3}.
     'skill.charge.SKILL_EARTH_CHARGED_BAD_MIDDLE': 'Shaking',
     'key.storage.eggs.super': 'Ancient Eggs',
     'skill.main.SKILL_FIRE_MAIN_BEST_FAST': 'Barrage',
-    'key.mentorship.mentor.noMentorAndCanNotChoose.message': 'The Recruiting system will be disabled. 
-You can receive your reward for your recruits\' achievements only until February 26.',
+    'key.mentorship.mentor.noMentorAndCanNotChoose.message': 'The Recruiting system will be disabled.  You can receive your reward for your recruits\' achievements only until February 26.',
     'key.wizardBattle.timer': 'The limit of free battles will be reset in',
     'key.button.ok': 'OK',
     'skill.main.SKILL_EARTH_MAIN_BEST_NORMAL': 'Tree Ghost',
@@ -473,8 +445,7 @@ You can receive your reward for your recruits\' achievements only until February
     'key.candy.MONSTER_DUNGEON_LOV_1': 'Nimblo\'s stones',
     'key.notification.done': 'Done!',
     'key.hut.hutDescr': 'Give the Mother of Dragons ancient eggs so that she can hatch them for you',
-    'key.ServiceException.Cause.RESPONSE_CODE': 'Error {0}
-{1}',
+    'key.ServiceException.Cause.RESPONSE_CODE': 'Error {0} {1}',
     'key.ServiceException.Cause.WRONG_CREATURE': 'Wrong creature',
     'key.banner.options.button': 'SETTINGS',
     'auth.login.social.cantSignInError': 'Cannot connect to {0}',
@@ -515,8 +486,7 @@ You can receive your reward for your recruits\' achievements only until February
     'skill.charge.SKILL_FIRE_CHARGED_GOOD_SHORT': 'Napalm',
     'event.log.UPGRADE_STORAGE_BOUGHT': 'The creature storage has been upgraded for {0} dracoins',
     'key.battle.result.dust': 'Essence',
-    'key.mentorship.mentor.kickedByMentor.message': 'The Recruiting system will be disabled. 
-You can receive your reward for your recruits\' achievements only until February 26.',
+    'key.mentorship.mentor.kickedByMentor.message': 'The Recruiting system will be disabled.  You can receive your reward for your recruits\' achievements only until February 26.',
     'key.ServiceException.Cause.WIZARD_CANNOT_ENHANCE_LIMIT': 'The battle limit has already been increased',
     'skill.charge.SKILL_DUNGEON_CHARGED_BAD_SHORT': 'Atomization',
     'key.ServiceException.Cause.BUILDING_COOLDOWN': 'The building is recharging',
@@ -613,8 +583,7 @@ You can receive your reward for your recruits\' achievements only until February
     'key.account.options.jurnal': 'JOURNAL',
     'skill.main.SKILL_FIRE_MAIN_BAD_NORMAL': 'Palm of Fire',
     'key.ServiceException.Cause.TOO_HIGH_LEVEL_TO_BECOME_STUDENT': 'Your level is too high',
-    'key.buff.tooltip.SYSTEM_MAINTENANCE': 'Do not use temporary bonuses!
-The maintenance works start in:',
+    'key.buff.tooltip.SYSTEM_MAINTENANCE': 'Do not use temporary bonuses! The maintenance works start in:',
     'key.button.yes': 'YES',
     'skill.charge.SKILL_FIRE_CHARGED_GOOD_MIDDLE': 'Lava',
     'event.log.UPGRADE_BAG_BOUGHT': 'The bag has been upgraded for {0} dracoins',
@@ -649,9 +618,7 @@ The maintenance works start in:',
     'key.candy.MONSTER_DUNGEON_2': 'Axolan\'s stones',
     'key.candy.MONSTER_DUNGEON_3': 'Spikeback\'s stones',
     'auth.login.signOut.confirmation': 'Are you sure you want to log out?',
-    'key.mentorship.mentor.noMentorYet.hint': 'Unfortunately, our desire to give each player a special opportunity to get the Dragon led to a massive violation of the rules and the spirit of the game. 
-The Recruiting system will be disabled. 
-In the future, you can get Kingpeat in the Hunt for a Golden Egg or buy it at the Shop.',
+    'key.mentorship.mentor.noMentorYet.hint': 'Unfortunately, our desire to give each player a special opportunity to get the Dragon led to a massive violation of the rules and the spirit of the game.  The Recruiting system will be disabled.  In the future, you can get Kingpeat in the Hunt for a Golden Egg or buy it at the Shop.',
     'skill.charge.SKILL_FIRE_CHARGED_GOOD_LONG': 'Fountain of Fire',
     'key.android.permission.gps.message': 'The game uses real-world coordinates and world maps. Please, allow us to access your geographic location.',
     'key.startEgg.incubator.title': 'Dragon\'s cocoons',
@@ -977,13 +944,7 @@ In the future, you can get Kingpeat in the Hunt for a Golden Egg or buy it at th
     'key.artifact.ARTIFACT_DECOY_1': 'Fruit of the Morning Dew',
     'key.ServiceException.Cause.TRIBUTE_COLLECTION_NOT_READY_YET': 'The time for collecting taxes hasn\'t come yet',
     'key.settings.vibration': 'Vibration',
-    'startup.warning': 'When you’re out and about playing Draconius GO: Catch a Dragon!, make sure you’re safe and stay aware of your surroundings.
-
-Do not play the Game while driving or doing anything else that requires your full attention.
-
-Respect private property while playing.
-
-Pay attention to how you feel while playing, schedule regular breaks so that you can fully enjoy the game.',
+    'startup.warning': 'When you’re out and about playing Draconius GO: Catch a Dragon!, make sure you’re safe and stay aware of your surroundings.  Do not play the Game while driving or doing anything else that requires your full attention.  Respect private property while playing.  Pay attention to how you feel while playing, schedule regular breaks so that you can fully enjoy the game.',
     'skill.main.SKILL_WIND_MAIN_BAD_FAST': 'Breathing',
     'key.artifact.ARTIFACT_ADDITIONAL_MONSTER_1': 'Banner of the Ruler',
     'key.item.MAGIC_BALL_NORMAL': 'Master\'s sphere',
@@ -1090,12 +1051,7 @@ Pay attention to how you feel while playing, schedule regular breaks so that you
     'key.error.no_connection': 'No connection to host. Try again later.',
     'key.combined.second.40': 'Defenders',
     'key.account.options.artifacts': 'ARTIFACTS',
-    'key.mentorship.sharecode.text': 'ATTENTION: 
-The invited player must reach level 21 BEFORE February 26. 
-
-Unfortunately, our desire to give each player a special opportunity to get the Dragon led to a massive violation of the rules and the spirit of the game. 
-The Recruiting system will be disabled. 
-In the future, you can get Kingpeat in the Hunt for a Golden Egg or buy it at the Shop.',
+    'key.mentorship.sharecode.text': 'ATTENTION:  The invited player must reach level 21 BEFORE February 26.   Unfortunately, our desire to give each player a special opportunity to get the Dragon led to a massive violation of the rules and the spirit of the game.  The Recruiting system will be disabled.  In the future, you can get Kingpeat in the Hunt for a Golden Egg or buy it at the Shop.',
     'auth.login.play': 'Play',
     'key.artifact.ARTIFACT_TELEPATHY_2.description.long': 'This artifact allows you to put your creature on a free place in an Arena or Library you can see on the map remotely twice per day.',
     'key.item.FOOD_MORE_DUST': 'Magical Doughnut',
@@ -1103,8 +1059,7 @@ In the future, you can get Kingpeat in the Hunt for a Golden Egg or buy it at th
     'key.artifact.ARTIFACT_BUDDY_DISTANCE_REDUCE_1': 'Spiked Collar',
     'key.artifact.ARTIFACT_BUDDY_DISTANCE_REDUCE_3': 'Back Scratcher',
     'key.artifact.ARTIFACT_BUDDY_DISTANCE_REDUCE_2': 'Carrot on a Stick',
-    'key.speed.toMachSpeed': 'You\'re moving too fast.
-You can\'t play Draconius GO: Catch a Dragon! while driving - it\'s dangerous for your life.',
+    'key.speed.toMachSpeed': 'You\'re moving too fast. You can\'t play Draconius GO: Catch a Dragon! while driving - it\'s dangerous for your life.',
     'key.artifact.ARTIFACT_BUDDY_DISTANCE_REDUCE_5': 'Teddy Dragon',
     'key.artifact.ARTIFACT_BUDDY_DISTANCE_REDUCE_4': 'Favorite\'s Jingle',
     'key.combined.second.26': 'Mice',
@@ -1148,11 +1103,7 @@ You can\'t play Draconius GO: Catch a Dragon! while driving - it\'s dangerous fo
     'skill.charge.SKILL_EARTH_CHARGED_BEST_SHORT': 'Lake of Death',
     'quest.desc.FIND_DUNGEON_WITH_ROOST': 'Visit the Rift of Arcana to find the Mother of Dragons',
     'key.confirm.giveUpBattle': 'Are you sure you want to surrender and end the battle?',
-    'key.quest.weekly.descr.top.reset': 'You have canceled the Hunt.
-
-To start an additional Hunt this week, you need to put on the artifact or the set of artifacts again.
-
-The next Hunt will start in',
+    'key.quest.weekly.descr.top.reset': 'You have canceled the Hunt.  To start an additional Hunt this week, you need to put on the artifact or the set of artifacts again.  The next Hunt will start in',
     'key.ServiceException.Cause.OBELISK_ALREADY_USED': 'You\'ve already used this Obelisk',
     'key.combined.first.3': 'Beautiful',
     'key.combined.first.2': 'Hellish',
@@ -1310,11 +1261,7 @@ The next Hunt will start in',
     'creature.MONSTER_WIND_10': 'Windance',
     'key.ServiceException.Cause.TOO_MANY_ROOST_EGGS_NO_ART': 'You have to put on the Dragon\'s Heart artifact to unlock an additional cocoon.',
     'key.ServiceException.Cause.ARENA_PROTECTED': 'The Arena is protected by the Blessing of Defense',
-    'key.mentorship.mentor.haveMentor.message': '{0}
-
-Reach level 21 
-BEFORE February 26 
-and take your reward.',
+    'key.mentorship.mentor.haveMentor.message': '{0}  Reach level 21  BEFORE February 26  and take your reward.',
     'creature.MONSTER_WIND_11': 'Infird',
     'auth.login.nickname.busy': 'This nickname is already taken',
     'stop.personalized.RESURRECTIONS': 'RESURRECTION POTIONS',
