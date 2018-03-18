@@ -1,6 +1,6 @@
 {
   "name": "dracotext",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "types": "index.d.ts",
@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/dracoapi/dracotext/issues"
   },
-  "homepage": "https://github.com/dracoapi/dracotext#readme"
+  "homepage": "https://github.com/dracoapi/dracotext#readme",
+  "devDependencies": {
+    "dotenv": "^5.0.1",
+    "draconode": "^0.6.2"
+  }
 }
