@@ -47,6 +47,7 @@ async function main() {
         'English',
         'French',
         'German',
+        'Spanish',
     ];
     for (let lang of languages) {
         await get(lang);
