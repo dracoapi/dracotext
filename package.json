@@ -1,6 +1,6 @@
 {
   "name": "dracotext",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "types": "index.d.ts",
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/dracoapi/dracotext#readme",
   "devDependencies": {
-    "dotenv": "^5.0.1",
-    "draconode": "^0.7.0"
+    "dotenv": "^6.0.0",
+    "draconode": "^0.7.1"
   }
 }
